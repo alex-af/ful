@@ -1,0 +1,15 @@
+{
+  "name": "ful",
+  "description": "Convert UNSIGNED LONG to FLOAT, FLOAT to UNSIGNED LONG",
+  "keywords": "conversation, float, unsigned long",
+  "authors":
+  {
+    "name": "Alexey Afanasev"
+  },
+
+  "version": "0.0.1",
+  "frameworks": [
+        "arduino"
+  ],
+  "platforms": "*"
+}
